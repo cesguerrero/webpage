@@ -711,13 +711,13 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-s4Kd18qFZy .navbar {
-  background: #233237;
+  background: #18121e;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-s4Kd18qFZy .navbar-dropdown.bg-color.transparent.opened {
-  background: #233237;
+  background: #18121e;
 }
 .cid-s4Kd18qFZy a {
   font-style: normal;
@@ -808,7 +808,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-s4Kd18qFZy .dropdown .dropdown-menu {
-  background: #233237;
+  background: #18121e;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -880,7 +880,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #233237;
+  background-color: #18121e;
 }
 .cid-s4Kd18qFZy button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1119,7 +1119,7 @@ section.lazy-placeholder:after {
 .cid-s50M6ogsfY {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-s50M6ogsfY .mbr-section-subtitle {
   color: #233237;
@@ -1134,7 +1134,7 @@ section.lazy-placeholder:after {
 .cid-s50L1Of7ks {
   padding-top: 15px;
   padding-bottom: 60px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-s50L1Of7ks .counter-container {
   color: #767676;
@@ -1225,7 +1225,7 @@ section.lazy-placeholder:after {
 .cid-s50KdjRKLM {
   padding-top: 45px;
   padding-bottom: 15px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-s50KdjRKLM .mbr-section-subtitle {
   color: #767676;
@@ -1240,7 +1240,7 @@ section.lazy-placeholder:after {
 .cid-s50KdX8nXF {
   padding-top: 45px;
   padding-bottom: 120px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-s50KdX8nXF .counter-container {
   color: #767676;
@@ -1278,7 +1278,7 @@ section.lazy-placeholder:after {
 .cid-s50Ken3vIS {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #233237;
+  background-color: #ffffff;
 }
 .cid-s50Ken3vIS .testimonials-container {
   margin: 0 auto;
@@ -1289,7 +1289,7 @@ section.lazy-placeholder:after {
   -webkit-justify-content: center;
 }
 .cid-s50Ken3vIS .testimonials-container .testimonials-item .user {
-  background: #233237;
+  background: #ffffff;
 }
 .cid-s50Ken3vIS .testimonials-container .testimonials-item .user.row {
   margin: 0;
@@ -1322,24 +1322,25 @@ section.lazy-placeholder:after {
 }
 .cid-s50Ken3vIS .mbr-section-subtitle {
   text-align: left;
-  color: #efefef;
+  color: #18121e;
 }
 .cid-s50Ken3vIS H2 {
   text-align: left;
+  color: #18121e;
 }
 .cid-s50Ken3vIS .user_text {
-  color: #ffffff;
+  color: #18121e;
 }
 .cid-s50Ken3vIS .user_name {
-  color: #ffffff;
+  color: #18121e;
 }
 .cid-s50Ken3vIS .user_desk {
-  color: #ffffff;
+  color: #18121e;
 }
 .cid-s51MgPTk8D {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #233237;
+  background-color: #ffffff;
 }
 .cid-s51MgPTk8D .row-links {
   width: 100%;
@@ -1416,7 +1417,8 @@ section.lazy-placeholder:after {
 }
 .cid-s51MgPTk8D foot-menu-item {
   text-align: right;
+  color: #18121e;
 }
 .cid-s51MgPTk8D .media-container-row .mbr-text {
-  color: #cccccc;
+  color: #18121e;
 }
